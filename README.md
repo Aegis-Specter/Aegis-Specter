@@ -12,10 +12,8 @@ Student • Builder • Cybersecurity learne
 - Documenting learning on GitHub & dev.to (https://dev.to/aegisspecter)
 - 💬 Learning in public. Open to collaboration and respectful corrections.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aegis-Specter" />
-  <img src="https://streak-stats.demolab.com?user=Aegis-Specter" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aegis-Specter)
+![GitHub Streak](https://streak-stats.demolab.com?user=Aegis-Specter)
 
 > Note: “Aegis Specter” is an online alias, not my real name.
   
