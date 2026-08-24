@@ -2,15 +2,18 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Aegis-Specter)
 
-🎓 Class 12 student | JEE 2027  
-🔐 Aspiring Ethical Hacker learning by reaching out to people 
-🐧 Linux • Networking • Python  
+Student • Builder • Cybersecurity learne
 
 ## 🚀 Current Focus
-- Networking fundamentals
-- learning by building Small Python projects
+- 🔐 Learning cybersecurity
+- 🐧 Linux
+- 🐍 Python
+- 🛠️ Building small projects
 - Documenting learning on GitHub & dev.to (https://dev.to/aegisspecter)
--💬 Learning in public. Open to collaboration and respectful corrections.
+- 💬 Learning in public. Open to collaboration and respectful corrections.
 
+(https://github-readme-stats.vercel.app/api?username=Aegis-Specter)
+(https://streak-stats.demolab.com?user=Aegis-Specter)
+  
 > Note: “Aegis Specter” is an online alias, not my real name.
   
