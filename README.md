@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Aegis-Specter)
 
-Student • Builder • Cybersecurity learne
+Student • Builder • Cybersecurity learner
 
 ## 🚀 Current Focus
 - 🔐 Learning cybersecurity
